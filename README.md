@@ -19,6 +19,8 @@
   - `1) 新安装 / 初始化部署`
   - `2) 只升级（已有环境）`
 
+如果您喜欢这个程序，可以对我的项目进行打赏，支持开发者，谢谢！
+钱包地址：scash1qdvdy4ea0v6dpw6kxnxgffsr2h3tsgf0f55z589
 ---
 
 ## 使用环境要求
@@ -122,3 +124,6 @@ git pull 拉取最新代码
 请使用 root 或 sudo 运行脚本，否则安装 Docker / 写入 /usr/local/bin 会失败。
 
 ARM 设备（例如 R86S）不支持 x86_64 版本的 cpuminer-scash，请务必在面板中使用 SRBMiner-MULTI。
+
+可以在https://t.me/SatoshiCashNetwork 找到我。
+
