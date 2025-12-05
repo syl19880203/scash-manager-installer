@@ -43,8 +43,6 @@
 chmod +x install_scash_manager.sh
 
 
-注意：上面 URL 中的 syl19880203/scash-manager-installer
-请替换为你实际的 GitHub 用户名和仓库名（如果不同）。
 
 2. 运行脚本
 sudo ./install_scash_manager.sh
