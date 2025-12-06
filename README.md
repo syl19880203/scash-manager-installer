@@ -19,8 +19,10 @@
   - `1) 新安装 / 初始化部署`
   - `2) 只升级（已有环境）`
 
-如果您喜欢这个程序，可以对我的项目进行打赏，支持开发者，谢谢！可以在https://t.me/+vsa1TnPuAaphM2U1找到我。
+如果您喜欢这个程序，可以对我的项目进行打赏，支持开发者，谢谢！
 钱包地址：scash1qdvdy4ea0v6dpw6kxnxgffsr2h3tsgf0f55z589
+
+找我可以在https://t.me/+vsa1TnPuAaphM2U1
 ---
 
 ## 使用环境要求
