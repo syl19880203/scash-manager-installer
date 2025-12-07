@@ -6,6 +6,7 @@
 <img width="1796" height="1028" alt="image" src="https://github.com/user-attachments/assets/77e9146c-9214-4c09-9e6c-8f76560d0c6f" />
 
 脚本视频介绍：https://youtu.be/99IEb8OfxVU
+
 脚本特点：
 
 - 自动检测系统（Linux + x86_64 / ARM）
