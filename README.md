@@ -3,7 +3,8 @@
 # SCASH Manager 一键部署脚本
 
 这是用于部署 [SCASH Manager](https://github.com/syl19880203/scash-manager) 的一键安装 / 升级脚本。
-https://private-user-images.githubusercontent.com/37480762/521795731-9f9a8b0e-8fd7-4ddf-8aa3-583538b0eca1.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUwNzg0OTAsIm5iZiI6MTc2NTA3ODE5MCwicGF0aCI6Ii8zNzQ4MDc2Mi81MjE3OTU3MzEtOWY5YThiMGUtOGZkNy00ZGRmLThhYTMtNTgzNTM4YjBlY2ExLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjA3VDAzMjk1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFmY2Q0YTU0OGE5MzNlZTViYzgxYmQ0NTJkMjRjZjVmYmFiYmU2YTk1MjEwODQzN2Y2ZDg0OTYyMWRiODY3N2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.yO6o0aonBZAeI8rPR7U2YAppHMGL_nXiYzyAXWRsCZk
+<img width="1796" height="1028" alt="image" src="https://github.com/user-attachments/assets/77e9146c-9214-4c09-9e6c-8f76560d0c6f" />
+
 脚本特点：
 
 - 自动检测系统（Linux + x86_64 / ARM）
