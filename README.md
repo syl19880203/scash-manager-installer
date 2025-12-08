@@ -3,6 +3,8 @@
 # SCASH Manager 一键部署脚本
 
 这是用于部署 [SCASH Manager](https://github.com/syl19880203/scash-manager) 的一键安装 / 升级脚本。
+<img width="2256" height="1062" alt="image" src="https://github.com/user-attachments/assets/d61b6e11-1191-469e-8a8e-f043fc131a3a" />
+
 <img width="1796" height="1028" alt="image" src="https://github.com/user-attachments/assets/77e9146c-9214-4c09-9e6c-8f76560d0c6f" />
 
 脚本视频介绍：https://youtu.be/99IEb8OfxVU
