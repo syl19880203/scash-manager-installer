@@ -9,6 +9,7 @@
 
 脚本视频介绍：https://youtu.be/99IEb8OfxVU
 找我就在电报群：https://t.me/+VLnDiWgrAahmYjA1
+
 脚本特点：
 
 - 自动检测系统（Linux + x86_64 / ARM）
