@@ -8,7 +8,7 @@
 <img width="1796" height="1028" alt="image" src="https://github.com/user-attachments/assets/77e9146c-9214-4c09-9e6c-8f76560d0c6f" />
 
 脚本视频介绍：https://youtu.be/99IEb8OfxVU
-
+找我就在电报群：https://t.me/+VLnDiWgrAahmYjA1
 脚本特点：
 
 - 自动检测系统（Linux + x86_64 / ARM）
@@ -27,7 +27,7 @@
 如果您喜欢这个程序，可以对我的项目进行打赏，支持开发者，谢谢！
 钱包地址：scash1qdvdy4ea0v6dpw6kxnxgffsr2h3tsgf0f55z589
 
-找我可以在https://t.me/+vsa1TnPuAaphM2U1
+
 ---
 
 ## 使用环境要求
